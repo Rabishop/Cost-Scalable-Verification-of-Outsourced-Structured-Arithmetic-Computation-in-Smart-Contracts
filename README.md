@@ -14,9 +14,7 @@ We report results on both:
 
 The goal is to show the scaling trend as input size `n` grows.
 
-## Main Result Table (for Review)
-
-The following table is the primary data section for review.
+## Main Result Table
 
 | n | EVM Direct (ETH) | EVM Verify (ETH) | Starknet Direct (ETH) | Starknet Verify (ETH) |
 |---:|---:|---:|---:|---:|
