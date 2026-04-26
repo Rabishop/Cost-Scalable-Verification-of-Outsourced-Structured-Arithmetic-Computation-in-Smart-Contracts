@@ -1,0 +1,12 @@
+[package]
+name = "sn_plonk_fft"
+version = "0.1.0"
+edition = "2024_07"
+description = "Starknet fee probe: Plonk-style FFT verify workload (mock, not real Plonk pairing)"
+publish = false
+
+[dependencies]
+starknet = ">=2.15.0"
+
+[[target.starknet-contract]]
+casm = true

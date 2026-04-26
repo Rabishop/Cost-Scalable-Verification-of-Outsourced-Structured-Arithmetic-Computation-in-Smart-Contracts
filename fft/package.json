@@ -1,0 +1,12 @@
+{
+  "name": "fft-gkr-starknet",
+  "version": "1.0.0",
+  "description": "Starknet: 直接 FFT vs GKR 验证 FFT 的 fee 对比",
+  "scripts": {
+    "test:gas:starknet": "node scripts/compareGasStarknet.js",
+    "starknet:build": "cd starknet && scarb build"
+  },
+  "dependencies": {
+    "starknet": "^9.2.1"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Project\\2026-02-11-fft-project\\fft\\contracts\\FFTDirect.sol": {
+      "lastModificationDate": 1770799118361,
+      "contentHash": "e9ec81301105b3792e83283c38044c5d",
+      "sourceName": "contracts/FFTDirect.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Field.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "FFTDirect"
+      ]
+    },
+    "D:\\Project\\2026-02-11-fft-project\\fft\\contracts\\Field.sol": {
+      "lastModificationDate": 1770799118353,
+      "contentHash": "3afbe9825cbe69cc910b10d515c2edae",
+      "sourceName": "contracts/Field.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Field"
+      ]
+    },
+    "D:\\Project\\2026-02-11-fft-project\\fft\\contracts\\FFTVerifier.sol": {
+      "lastModificationDate": 1770799118367,
+      "contentHash": "e675fcece2539a3c4591d5eae50942eb",
+      "sourceName": "contracts/FFTVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Field.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "FFTVerifier"
+      ]
+    },
+    "D:\\Project\\2026-02-11-fft-stark\\fft\\contracts\\FFTDirect.sol": {
+      "lastModificationDate": 1770799118361,
+      "contentHash": "e9ec81301105b3792e83283c38044c5d",
+      "sourceName": "contracts/FFTDirect.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Field.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "FFTDirect"
+      ]
+    },
+    "D:\\Project\\2026-02-11-fft-stark\\fft\\contracts\\Field.sol": {
+      "lastModificationDate": 1770799118353,
+      "contentHash": "3afbe9825cbe69cc910b10d515c2edae",
+      "sourceName": "contracts/Field.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Field"
+      ]
+    },
+    "D:\\Project\\2026-02-11-fft-stark\\fft\\contracts\\FFTVerifier.sol": {
+      "lastModificationDate": 1770799118367,
+      "contentHash": "e675fcece2539a3c4591d5eae50942eb",
+      "sourceName": "contracts/FFTVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Field.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "FFTVerifier"
+      ]
+    }
+  }
+}

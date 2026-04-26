@@ -1,0 +1,12 @@
+{
+  "name": "starknet-plonk-fft-mock",
+  "private": true,
+  "scripts": {
+    "build:cairo": "scarb build",
+    "estimate": "node scripts/estimate_strk.cjs",
+    "test:smoke": "node scripts/smoke_test.cjs"
+  },
+  "dependencies": {
+    "starknet": "^9.2.1"
+  }
+}
