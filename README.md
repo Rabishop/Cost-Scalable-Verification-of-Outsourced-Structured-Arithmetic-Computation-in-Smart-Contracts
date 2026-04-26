@@ -1,5 +1,7 @@
 # FFT On-Chain Verification Benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19794063.svg)](https://doi.org/10.5281/zenodo.19794063)
+
 ## What This Repository Evaluates
 
 This project compares two ways to handle an FFT-style workload on-chain:
@@ -41,3 +43,7 @@ The goal is to show the scaling trend as input size `n` grows.
 - EVM ETH values are converted from gas using a fixed gas-price convention in the project.
 - Starknet ETH values are converted from STRK (`overall_fee / 1e18`) using the project’s stated exchange-rate assumption.
 - Some large-`n` rows are extrapolated according to the repository’s documented convention.
+
+## Citation
+
+- DOI: [10.5281/zenodo.19794063](https://doi.org/10.5281/zenodo.19794063)
